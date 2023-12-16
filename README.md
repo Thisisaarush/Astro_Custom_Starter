@@ -1,4 +1,6 @@
-# Astro Custom Starter
+# ⭐ Astro Custom Starter
+
+<img src="./public/astro.svg" alt="astro" width="300">
 
 ## Prerequisites
 
